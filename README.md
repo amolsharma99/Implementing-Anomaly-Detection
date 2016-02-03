@@ -6,6 +6,9 @@ Example showing sample implementation of an anomaly detection system
 
 Applications of anomaly detection - Fraud detection. Manufacturing (e.g, aircraft engine), Monitoring in Data Center.
 
+Strategies -
+One Class SVM
+covriance.EllipticalEnvelope (If data is known to be gaussian distributed)
 
 
 Refs -
